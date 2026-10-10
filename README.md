@@ -1,0 +1,1 @@
+This project contains all Typescript project tasks.
